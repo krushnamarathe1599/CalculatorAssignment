@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525856490114",
+    "project_id": "kotlincalculator-6dd7a",
+    "storage_bucket": "kotlincalculator-6dd7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525856490114:android:3545ccfc61e59c5ef42a9b",
+        "android_client_info": {
+          "package_name": "com.example.calculator_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525856490114-okh1tkpgk53f9s9gug08dfdtagdejc9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1KzFkvQn-p8RUO1JGvTfcyZg59mDSo3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525856490114-okh1tkpgk53f9s9gug08dfdtagdejc9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
