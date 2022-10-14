@@ -208,7 +208,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        buttonDivide.setOnClickListener {
+        buttonDivide.setOnClickListener {kunal@
             text = inputText.text.toString()
             if (!text.endsWith(".") && !text.endsWith("+")
                 && !text.endsWith("*") && !text.endsWith("/")
